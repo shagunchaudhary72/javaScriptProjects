@@ -1,0 +1,149 @@
+[{
+  "_id": {
+    "$oid": "60d58fefd4e58715a8c71468"
+  },
+  "group": "",
+  "srno": 1,
+  "name": "HTML stands for ?",
+  "options": {
+    "1": "HighText Machine Language ",
+    "2": "HyperText and links Markup Language ",
+    "3": "HyperText Markup Language ",
+    "4": " None of these",
+    "5": " "
+  },
+  "answer": 3,
+  "input": 1,
+  "marks": 1,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d58fefd4e58715a8c71468"
+  },
+  "group": "",
+  "srno": 2,
+  "name": "The correct sequence of HTML tags for starting a webpage is ?",
+  "options": {
+    "1": " Head, Title, HTML, body",
+    "2": " HTML, Body, Title, Head",
+    "3": " HTML, Head, Title, Body",
+    "4": "HTML, Head, Title, Body ",
+    "5": " "
+  },
+  "answer": 4,
+  "input": 1,
+  "marks": 1,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d58fefd4e58715a8c71468"
+  },
+  "group": "",
+  "srno": 3,
+  "name": "Which of the following element is responsible for making the text bold in HTML?",
+  "options": {
+    "1": "pre",
+    "2": "a",
+    "3": "b",
+    "4": "br",
+    "5": " "
+  },
+  "answer": 2,
+  "input": 1,
+  "marks": 1,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d58fefd4e58715a8c71468"
+  },
+  "group": "",
+  "srno": 4,
+  "name": " Which of the following tag is used for inserting the largest heading in HTML?",
+  "options": {
+    "1": "h3",
+    "2": " h1",
+    "3": " h5",
+    "4": " h6",
+    "5": " "
+  },
+  "answer": 2,
+  "input": 1,
+  "marks": 1,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60d58fefd4e58715a8c71468"
+  },
+  "group": "",
+  "srno": 5,
+  "name": " Which of the following tag is used to insert a line-break in HTML?",
+  "options": {
+    "1": "br ",
+    "2": " a",
+    "3": " pre",
+    "4": "b ",
+    "5": " "
+  },
+  "answer": 1,
+  "input": 1,
+  "marks": 1,
+  "__v": 0
+}
+,{
+  "_id": {
+    "$oid": "60d58fefd4e58715a8c71468"
+  },
+  "group": "",
+  "srno": 6,
+  "name": "Which type of JavaScript language is ___?",
+  "options": {
+    "1": "Object-Oriented ",
+    "2": "Object-Based",
+    "3": "Assembly-Language",
+    "4": "High-Level",
+    "5": " "
+  },
+  "answer": 2,
+  "input": 1,
+  "marks": 1,
+  "__v": 0
+
+},{
+  "_id": {
+    "$oid": "60d58fefd4e58715a8c71468"
+  },
+  "group": "",
+  "srno": 7,
+  "name": "To access the services of operating system, the interface is provided by the ___________?",
+  "options": {
+    "1": "System Calls",
+    "2": "API",
+    "3": "Library",
+    "4": "Assembly Instructions",
+    "5": " "
+  },
+  "answer": 1,
+  "input": 1,
+  "marks": 1,
+  "__v": 0
+
+},{
+  "_id": {
+    "$oid": "60d58fefd4e58715a8c71468"
+  },
+  "group": "",
+  "srno": 8,
+  "name": " Which of the following tag is used to insert a line-break in HTML?",
+  "options": {
+    "1": "br",
+    "2": " a",
+    "3": " pre",
+    "4": " b ",
+    "5": " "
+  },
+  "answer": 1,
+  "input": 1,
+  "marks": 1,
+  "__v": 0
+
+}]
